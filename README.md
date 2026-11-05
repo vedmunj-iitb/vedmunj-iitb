@@ -10,11 +10,11 @@ tools I have built.
   mobile robot that takes over the trolley trips of a fan-assembly line, and a Gazebo fleet of
   three robots that bid for transport jobs
 
-**C++ and ROS 2**
+**C++ and ROS 2, written in 2026**
 
-- [robot-dog-ros2-sim](https://github.com/vedmunj-iitb/robot-dog-ros2-sim): the robot dog from my
-  ME 604 team project, simulated in Gazebo. It walks, trots, sits, stands and follows a figure-8,
-  with a C++ gait node, ros2_control and an IMU heading hold
+- [robot-dog-ros2-sim](https://github.com/vedmunj-iitb/robot-dog-ros2-sim): a Gazebo simulation of
+  the robot dog from my ME 604 team project, made after the course. It walks, trots, sits, stands
+  and follows a figure-8, with a C++ gait node, ros2_control and an IMU heading hold
 - [leg-ik-gait](https://github.com/vedmunj-iitb/leg-ik-gait): leg inverse kinematics and trot/walk gaits for a quadruped
 - [grid-astar](https://github.com/vedmunj-iitb/grid-astar): A* path planning on occupancy-grid maps
 - [can-log-decoder](https://github.com/vedmunj-iitb/can-log-decoder): decodes candump CAN logs into CSV
