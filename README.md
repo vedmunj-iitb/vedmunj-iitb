@@ -16,7 +16,6 @@ tools I have built.
   the robot dog from my ME 604 team project, made after the course. It walks, trots, sits, stands
   and follows a figure-8, with a C++ gait node, ros2_control and an IMU heading hold
 - [leg-ik-gait](https://github.com/vedmunj-iitb/leg-ik-gait): leg inverse kinematics and trot/walk gaits for a quadruped
-- [grid-astar](https://github.com/vedmunj-iitb/grid-astar): A* path planning on occupancy-grid maps
 - [can-log-decoder](https://github.com/vedmunj-iitb/can-log-decoder): decodes candump CAN logs into CSV
 
 **Robots and builds**
