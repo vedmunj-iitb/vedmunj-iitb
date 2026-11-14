@@ -6,9 +6,9 @@ tools I have built.
 
 **Thesis**
 
-- [amr-material-transport](https://github.com/vedmunj-iitb/amr-material-transport): a SLAM-based
-  mobile robot that takes over the trolley trips of a fan-assembly line, and a Gazebo fleet of
-  three robots that bid for transport jobs
+- [autonomous-material-transport](https://github.com/vedmunj-iitb/autonomous-material-transport): a
+  mobile robot that runs the trolley trips of a fan assembly line, and a Gazebo simulation in which
+  several robots share those trips
 
 **C++ and ROS 2, written in 2026**
 
